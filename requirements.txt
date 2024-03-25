@@ -1,0 +1,9 @@
+mongoengine==0.28.2
+pymongo==4.6.2
+Flask
+numpy
+pandas
+Shapely
+requests
+gunicorn
+eventlet==0.30.2
