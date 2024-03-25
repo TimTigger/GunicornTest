@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
 	"name": "Gunicorn_test",
-	"image": "hub.okii.com/watch-ai/devcontainer/python:3.8.18-debian12",
+	"image": "python:3.8",
     "mounts": [
         "source=${localWorkspaceFolder},target=/workspaces,type=bind"
     ],
